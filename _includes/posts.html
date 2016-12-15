@@ -1,0 +1,10 @@
+{% assign currentTag = include.tag %}
+
+<ul class="posts  posts-short">
+    {% for post in site.tags[currentTag] limit:include.limit offset:include.offset %}
+    <li>
+        <time class="post-date">{{ post.date | date: "<strong>%b %-d</strong> %Y" }}</time>
+        <a class="post-link" href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a>
+    </li>
+    {% endfor %}
+</ul>
