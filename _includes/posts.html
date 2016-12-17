@@ -6,7 +6,7 @@
         <h2 class="blog-post-title">{{ post.title }}</h2>
         <p class="blog-post-meta"><time class="post-date">{{ post.date | date: "<strong>%b %-d</strong> %Y" }}</time></p>
         {% if post.short == true %}
-            <p>{{ post.content | markdownify | strip_html }}</p>
+            <p>{{ post.content | markdownify }}</p>
         {% else %}
             <p>{{ post.excerpt | markdownify | strip_html }}</p>
             <p class="buttons"><a href="{{ post.url | prepend: site.baseurl }}">read more</a></p>
