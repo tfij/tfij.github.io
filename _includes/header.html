@@ -1,7 +1,10 @@
+{% assign current = page.url | downcase | split: '/' %}
+{% assign currentSubPage = current[1] %}
 <div class="blog-masthead">
     <div class="container">
         <nav class="blog-nav">
-            <a class="blog-nav-item active" href="/">Blog</a>
+            <a class="blog-nav-item {% if currentSubPage == nil %}active{% endif %}" href="/">Blog</a>
+            <a class="blog-nav-item {% if currentSubPage == 'about-me' %}active{% endif %}" href="/about-me">About me</a>
         </nav>
     </div>
 </div>
