@@ -4,3 +4,5 @@ menu: false
 baseurl: ""
 twitter_username: tomaszfialkows
 github_username:  tfij
+gems:
+  - jekyll-feed
