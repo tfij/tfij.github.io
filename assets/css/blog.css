@@ -19,6 +19,19 @@ h6, .h6 {
     color: #333;
 }
 
+article h1 {
+    font-size: 30px;
+}
+article h2 {
+    font-size: 24px;
+}
+article h3 {
+    font-size: 18px;
+}
+article h4 {
+    font-size: 14px;
+}
+
 
 /*
  * Override Bootstrap's default container.
