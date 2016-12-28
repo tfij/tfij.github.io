@@ -3,6 +3,7 @@ layout: post
 title: When use and when not to use default methods in Java interfaces
 tags: [tech, java]
 short: false
+category: post
 ---
 
 Java 8 supplies a lot new useful features, unfortunately also new misunderstandings and antipatterns are observed every day.

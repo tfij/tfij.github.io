@@ -1,9 +1,26 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="Tomasz Fijałkowski's Blog">
+<meta name="description" content="{{ site.description }}">
 <meta name="author" content="Tomasz Fijałkowski">
 <title>Programming Chi</title>
 
+<!-- Twitter Summary Card -->
+<meta name="twitter:card" content="summary">
+<meta name="twitter:site" content="@tomaszfijalkows">
+{% if page.title %}
+<meta name="twitter:title" content="{{ page.title }}">
+{% else %}
+<meta name="twitter:title" content="{{ site.title }}">
+{% endif %}
+{% if page.description %}
+<meta name="twitter:description" content="{{ page.description | strip_html | xml_escape }}">
+{% else %}{% if page.category == "post"%}
+<meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | truncate: 200 }}">
+{% else %}
+<meta name="twitter:description" content="{{ site.description | strip_html | xml_escape }}">
+{% endif %}{% endif %}
+
+<!-- atom -->
 {% feed_meta %}
 
 <!-- Bootstrap core CSS -->
@@ -13,6 +30,7 @@
 <link href="/assets/css/blog.css" rel="stylesheet">
 
 {% if site.env == "prod" %}
+<!-- GoogleAnalytics -->
 <script>
     (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
                 (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),

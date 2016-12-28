@@ -1,8 +1,9 @@
 ---
 layout: post
 title: Don't misuse unchecked exceptions
-tags: [tech]
+tags: [tech, java, error handling, CompletableFuture, Functional programing]
 short: false
+category: post
 ---
 
 In its early days, Java has a wide uses of checked exceptions. 
