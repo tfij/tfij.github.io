@@ -1,7 +1,7 @@
 ---
 layout: post
 title: When use and when not to use default methods in Java interfaces
-tags: [tech, java]
+tags: [tech, java, default methods, inheritance]
 short: false
 category: post
 ---
