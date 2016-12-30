@@ -157,6 +157,9 @@ article h4 {
     margin-bottom: 5px;
     font-size: 40px;
 }
+.blog-post-title a {
+    color: #333;
+}
 .blog-post-meta {
     margin-bottom: 20px;
     color: #999;
