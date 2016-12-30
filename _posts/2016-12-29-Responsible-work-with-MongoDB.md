@@ -3,9 +3,9 @@ layout: post
 title: Responsible work with MongoDB
 tags: [tech, MongoDB, NoSQL, RDBMS]
 short: false
-category: post
-publishedAtTitle: allegro.tech
-publishedAtUrl: http://allegro.tech/2016/12/MongoDB-schema.html
+publishedAt:
+    title: allegro.tech
+    url: http://allegro.tech/2016/12/MongoDB-schema.html
 ---
 
 Understanding data model is sufficient to design good database schema in RDBMS (relational
