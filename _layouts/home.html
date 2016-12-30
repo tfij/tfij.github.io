@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+    {% include head.html %}
+    <body>
+        {% include header.html %}
+        <div class="container">
+            <div class="blog-header">
+                <h1 class="blog-title">Programming Chi</h1>
+                <p class="lead blog-description">Tomasz Fijałkowski's programming blog.</p>
+            </div>
+
+            <div class="row">
+
+                <div class="col-sm-8 blog-main">
+                    {{ content }}
+                </div>
+
+                <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
+                    <div class="sidebar-module sidebar-module-inset">
+                        <h4>About</h4>
+                        <p>Tomek graduated with a master’s degree in physics. He is a professional programmer by trade, and is a carpenter in his heart. He likes pretty girls, cold tequila and old school black metal.</p>
+                    </div>
+                    <div class="sidebar-module">
+                        <h4>Elsewhere</h4>
+                        <ol class="list-unstyled">
+                            <li><a href="https://github.com/tfij">GitHub</a></li>
+                            <li><a href="https://twitter.com/TomaszFijalkows">Twitter</a></li>
+                        </ol>
+                    </div>
+                </div><!-- /.blog-sidebar -->
+
+            </div><!-- /.row -->
+
+        </div><!-- /.container -->
+        {% include footer.html %}
+        {% include scripts.html %}
+    </body>
+</html>

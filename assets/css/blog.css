@@ -208,3 +208,12 @@ article h4 {
 .bs-callout + .bs-callout {
     margin-top: -5px;
 }
+
+
+/*
+ * Other
+ */
+
+ul.recent-posts {
+    padding: 0;
+}

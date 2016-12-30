@@ -17,7 +17,7 @@ The general rule of the use default methods in interface is similar to the princ
 method in abstract class.
 Default implementation should be a proper for all subtypes, for example:
 
-1. Since Java 8 [List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html) class has method `sort`. 
+1. Since Java 8 [List](https://docs.oracle.com/javase/8/docs/api/java/util/List.html) class has a `sort` method. 
 Its implementation is valid for all subtypes, but subtypes like `SingletonList` or `SynchronizedList` override 
 this implementation.
 

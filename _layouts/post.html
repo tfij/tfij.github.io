@@ -1,15 +1,52 @@
----
-layout: default
----
+<!DOCTYPE html>
+<html lang="en">
+{% include head.html %}
+<body>
+{% include header.html %}
+<div class="container">
+    <div class="blog-header">
+        <h1 class="blog-title">Programming Chi</h1>
+        <p class="lead blog-description">Tomasz Fijałkowski's programming blog.</p>
+    </div>
 
-<h1>{{ page.title }}</h1>
+    <div class="row">
 
-{% if page.publishedAtTitle %}
-<div class="bs-callout bs-callout-small bs-callout-info">
-    This article is also available at <a href="{{ page.publishedAtUrl }}">{{ page.publishedAtTitle }}</a>.
-</div>
-{% endif %}
+        <div class="col-sm-8 blog-main">
+            <article>
+                <h1>{{ page.title }}</h1>
 
-<article>
-    {{ content }}
-</article>
+                {% if page.publishedAtTitle %}
+                <div class="bs-callout bs-callout-small bs-callout-info">
+                    This article is also available at <a href="{{ page.publishedAtUrl }}">{{ page.publishedAtTitle }}</a>.
+                </div>
+                {% endif %}
+
+                {{ content }}
+            </article>
+        </div>
+
+        <div class="col-sm-3 col-sm-offset-1 blog-sidebar">
+            <div class="sidebar-module sidebar-module-inset">
+                <h4>About</h4>
+                <p>
+                    Programing Chi (or Qi) is a blog about pitiful ideas, bugs and failures I notice every day.
+                    Fortunately, besides failures there are also a lot of successes and beautiful solution which I hope I will also write about.
+                </p>
+            </div>
+            {% include recent-posts.html %}
+            <div class="sidebar-module">
+                <h4>Elsewhere</h4>
+                <ol class="list-unstyled">
+                    <li><a href="https://github.com/tfij">GitHub</a></li>
+                    <li><a href="https://twitter.com/TomaszFijalkows">Twitter</a></li>
+                </ol>
+            </div>
+        </div><!-- /.blog-sidebar -->
+
+    </div><!-- /.row -->
+
+</div><!-- /.container -->
+{% include footer.html %}
+{% include scripts.html %}
+</body>
+</html>
