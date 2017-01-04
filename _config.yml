@@ -7,3 +7,4 @@ github_username:  tfij
 env: prod
 gems:
   - jekyll-feed
+  - jekyll-sitemap
