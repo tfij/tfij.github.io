@@ -16,4 +16,4 @@ defaults:
       path: "" # an empty string here means all files in the project
       type: "posts"
     values:
-      image: /img/chi.svg
+      image: /assets/img/chi.svg
