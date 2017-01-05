@@ -6,6 +6,8 @@ short: false
 publishedAt:
     title: allegro.tech
     url: http://allegro.tech/2016/12/MongoDB-schema.html
+seo:
+    type: TechArticle
 ---
 
 Understanding data model is sufficient to design good database schema in RDBMS (relational

@@ -3,6 +3,8 @@ layout: post
 title: When use and when not to use default methods in Java interfaces
 tags: [tech, java, default methods, inheritance]
 short: false
+seo:
+    type: TechArticle
 ---
 
 Java 8 supplies a lot new useful features, unfortunately also new misunderstandings and antipatterns are observed every day.

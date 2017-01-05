@@ -1,24 +1,19 @@
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<meta name="description" content="{{ site.description }}">
 <meta name="author" content="Tomasz Fijałkowski">
-<title>Programming Chi</title>
+
+<!-- seo -->
+{% seo %}
 
 <!-- Twitter Summary Card -->
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@tomaszfijalkows">
-{% if page.title %}
-<meta name="twitter:title" content="{{ page.title }}">
-{% else %}
-<meta name="twitter:title" content="{{ site.title }}">
-{% endif %}
-{% if page.description %}
-<meta name="twitter:description" content="{{ page.description | strip_html | xml_escape }}">
-{% else %}{% if page.layout == "post"%}
-<meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | strip_newlines | truncate: 200 }}">
-{% else %}
-<meta name="twitter:description" content="{{ site.description | strip_html | xml_escape }}">
-{% endif %}{% endif %}
+<meta name="twitter:image" content="{{ site.url }}/img/chi.svg">
+{% if page.title %}<meta name="twitter:title" content="{{ page.title }}">
+{% else %}<meta name="twitter:title" content="{{ site.title }}">
+{% endif %}{% if page.description %}<meta name="twitter:description" content="{{ page.description | strip_html | xml_escape }}">
+{% else %}{% if page.layout == "post"%}<meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | strip_newlines | truncate: 200 }}">
+{% else %}<meta name="twitter:description" content="{{ site.description | strip_html | xml_escape }}">{% endif %}{% endif %}
 
 <!-- atom -->
 {% feed_meta %}

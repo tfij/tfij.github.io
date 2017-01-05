@@ -1,5 +1,6 @@
 title: Programming Chi
 description: Tomek FijaŁkowski's programming blog
+author: Tomasz Fijałkowski
 menu: false
 baseurl: ""
 twitter_username: tomaszfialkows
@@ -8,3 +9,11 @@ env: prod
 gems:
   - jekyll-feed
   - jekyll-sitemap
+  - jekyll-seo-tag
+defaults:
+  -
+    scope:
+      path: "" # an empty string here means all files in the project
+      type: "posts"
+    values:
+      image: /img/chi.svg
