@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don't misuse unchecked exceptions
-tags: [tech, java, error handling, CompletableFuture, Functional programing]
+tags: [tech, java, error handling, CompletableFuture, Functional programming]
 short: false
 seo:
     type: TechArticle
@@ -66,7 +66,7 @@ The first was very simple - we introduced the rule that method returned Completa
 the exception are caught as early as possible and mapped to failure future.
 At the second step we derived the patterns of other languages.
 
-Functional programing treats successful execution of an operation on a par with errors.
+Functional programming treats successful execution of an operation on a par with errors.
 In Scala to show the possibility of occurring error, functions may return 
 [Either](http://www.scala-lang.org/api/2.12.0/scala/util/Either.html) and
 [Try](http://www.scala-lang.org/api/2.12.0/scala/util/Try.html) classes from standard library or
