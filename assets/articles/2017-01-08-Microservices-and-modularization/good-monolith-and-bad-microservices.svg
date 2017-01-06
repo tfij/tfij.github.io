@@ -1,0 +1,678 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1163.9642"
+   height="644.83148"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="good-monolith-and-bad-microservices.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="2.0330986"
+     inkscape:cx="233.58502"
+     inkscape:cy="260.49794"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(200.26415,-76.758213)">
+    <g
+       id="g3176"
+       transform="matrix(2,0,0,2,-293.0817,-1032.1231)"
+       inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         y="560.1181"
+         x="52.086224"
+         height="275.91675"
+         width="224.39897"
+         id="rect2987-6"
+         style="fill:#c8ffff;fill-opacity:1;stroke:#000000;stroke-width:1.35489261;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <g
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         id="g4387-9"
+         transform="translate(-355.36809,369.22563)">
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 511.13719,247.2706 21.2132,-13.13198"
+           id="path4369-4"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="M 515.1778,283.6361 502.04582,257.87721"
+           id="path4371-9"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 534.3707,294.74777 22.72843,-15.65736"
+           id="path4373-0"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 493.45952,293.73762 -20.70813,8.08122"
+           id="path4375-9"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 517.1981,301.81884 7.07107,19.1929"
+           id="path4377-1"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 548.51283,332.62849 20.70813,7.07107"
+           id="path4379-7"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 514.16765,340.20464 -18.18275,21.2132"
+           id="path4381-7"
+           inkscape:connector-curvature="0" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 501.54074,371.01429 23.73858,21.71828"
+           id="path4383-1"
+           inkscape:connector-curvature="0"
+           sodipodi:nodetypes="cc" />
+        <path
+           style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+           d="m 487.3986,380.10566 -15.15228,33.84011"
+           id="path4385-1"
+           inkscape:connector-curvature="0" />
+        <rect
+           style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect3757-47-5"
+           width="44.102345"
+           height="19.858683"
+           x="467.16214"
+           y="239.85178" />
+        <rect
+           style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect3757-65-9"
+           width="44.102345"
+           height="19.858683"
+           x="530.80176"
+           y="222.67918" />
+        <rect
+           style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect3757-69-7"
+           width="44.102345"
+           height="19.858683"
+           x="557.06573"
+           y="262.07513" />
+        <rect
+           style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect3757-37-7"
+           width="44.102345"
+           height="19.858683"
+           x="491.40579"
+           y="283.28836" />
+        <rect
+           style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect3757-45-6"
+           width="44.102345"
+           height="19.858683"
+           x="568.17737"
+           y="330.76553" />
+        <rect
+           style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect3757-25-7"
+           width="44.102345"
+           height="19.858683"
+           x="459.08093"
+           y="361.0701" />
+        <rect
+           style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect3757-474-3"
+           width="44.102345"
+           height="19.858683"
+           x="429.7865"
+           y="291.36957" />
+        <rect
+           style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect3757-43-6"
+           width="44.102345"
+           height="19.858683"
+           x="524.74084"
+           y="382.28329" />
+        <rect
+           style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect3757-07-5"
+           width="44.102345"
+           height="19.858683"
+           x="444.93875"
+           y="412.58786" />
+        <rect
+           style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none"
+           id="rect3757-8-6"
+           width="44.102345"
+           height="19.858683"
+           x="504.53778"
+           y="321.67413" />
+      </g>
+    </g>
+    <g
+       id="g3199"
+       transform="matrix(2,0,0,2,-315.72526,-1032.1231)"
+       inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         inkscape:connector-curvature="0"
+         id="path4303"
+         d="m 426.5301,613.15697 31.42857,-17.85714"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         inkscape:connector-curvature="0"
+         id="path4305"
+         d="m 495.81582,608.15697 c -5,-2.14286 -30.71429,-12.85714 -30.71429,-12.85714"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         inkscape:connector-curvature="0"
+         id="path4307"
+         d="m 518.67296,618.87126 20,-16.42858"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4309"
+         d="M 586.99928,631.39664 557.95867,611.01411"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         inkscape:connector-curvature="0"
+         id="path4311"
+         d="m 458.67296,659.58554 37.14286,-32.14285"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         inkscape:connector-curvature="0"
+         id="path4313"
+         d="M 524.38724,651.7284 502.95867,627.44269"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         inkscape:connector-curvature="0"
+         id="path4315"
+         d="m 595.10153,664.58554 c -2.14286,-2.85714 -6.42857,-15 -6.42857,-15"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         inkscape:connector-curvature="0"
+         id="path4317"
+         d="m 595.81582,699.58554 1.42857,-15"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         inkscape:connector-curvature="0"
+         id="path4319"
+         d="m 532.95867,689.58554 -9.28571,-18.57143"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         inkscape:connector-curvature="0"
+         id="path4321"
+         d="M 576.5301,675.29983 542.95867,661.01411"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         inkscape:connector-curvature="0"
+         id="path4323"
+         d="m 576.5301,682.44269 -20,19.28571"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         inkscape:connector-curvature="0"
+         id="path4325"
+         d="m 460.10153,678.87126 -12.85714,17.14285"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4327"
+         d="M 511.5301,698.87126 480.72916,670.50903"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         inkscape:connector-curvature="0"
+         id="path4329"
+         d="M 420.10153,741.7284 441.5301,716.01411"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         inkscape:connector-curvature="0"
+         id="path4331"
+         d="M 512.95867,703.15697 440.10153,746.7284"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4335"
+         d="m 522.24887,709.4154 -30.30458,21.21321"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         inkscape:connector-curvature="0"
+         id="path4337"
+         d="m 541.44177,710.42555 5.05076,9.59645"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         inkscape:connector-curvature="0"
+         id="path4339"
+         d="m 556.59406,705.87986 19.1929,5.55584"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         inkscape:connector-curvature="0"
+         id="path4341"
+         d="M 523.25902,689.71742 428.30468,633.14888"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         inkscape:connector-curvature="0"
+         id="path4343"
+         d="m 544.9773,690.2225 7.07107,-79.29698"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         inkscape:connector-curvature="0"
+         id="path4345"
+         d="m 530.33009,709.4154 13.63706,81.31728"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         inkscape:connector-curvature="0"
+         id="path4347"
+         d="m 598.51539,718.00169 11.61675,17.67767"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         inkscape:connector-curvature="0"
+         id="path4349"
+         d="m 591.44432,718.50677 -23.23351,32.32488"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4351"
+         d="m 549.01791,739.2149 10.60661,13.13198"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         inkscape:connector-curvature="0"
+         id="path4353"
+         d="M 555.07883,769.51947 553.5636,790.2276"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         inkscape:connector-curvature="0"
+         id="path4355"
+         d="m 490.93414,748.81135 -11.61675,31.8198"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         inkscape:connector-curvature="0"
+         id="path4357"
+         d="m 474.26662,618.50167 -29.29442,7.57614"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         inkscape:connector-curvature="0"
+         id="path4359"
+         d="m 412.14224,633.65396 -5.55584,108.5914"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         inkscape:connector-curvature="0"
+         id="path4361"
+         d="M 484.87323,729.61845 467.19556,679.11082"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4363"
+         d="m 629.32504,736.68951 c -0.50508,-3.53553 -12.12183,-53.033 -12.12183,-53.033"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         inkscape:connector-curvature="0"
+         id="path4365"
+         d="M 472.24632,781.13623 432.85037,760.93318"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         inkscape:connector-curvature="0"
+         id="path4367"
+         d="m 532.3504,756.89257 -36.3655,30.30457"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         y="608.30298"
+         x="474.80197"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-47-89"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         y="591.13037"
+         x="538.44159"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-65-2"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         y="630.52631"
+         x="564.70557"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-69-6"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         y="651.73956"
+         x="499.04562"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-37-6"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         y="699.21674"
+         x="575.8172"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-45-4"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         y="729.5213"
+         x="466.72079"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-25-9"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         y="659.82074"
+         x="437.42636"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-474-5"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         y="750.7345"
+         x="532.38068"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-43-0"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         y="781.03906"
+         x="452.57858"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-07-4"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         y="690.12531"
+         x="512.17761"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-8-8"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         y="613.94189"
+         x="400.90753"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-47-89-7"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         y="696.79901"
+         x="423.76465"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-47-89-1"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         y="741.79907"
+         x="396.6218"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-47-89-722"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         y="790.37048"
+         x="527.33606"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-47-89-6"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         y="720.37048"
+         x="523.76465"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-47-89-61"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         y="576.08478"
+         x="438.76465"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-47-89-5"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         y="665.37042"
+         x="576.62177"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-47-89-72"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+         y="736.08472"
+         x="590.19324"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-47-89-10"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-125.89015"
+       y="710.96667"
+       id="text4483"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4485"
+         x="-125.89015"
+         y="710.96667"
+         style="font-size:44px">Good monolith</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="512.55151"
+       y="710.96667"
+       id="text4487"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/good-monolith-and-bad-microservices.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4489"
+         x="512.55151"
+         y="710.96667"
+         style="font-size:44px">Bad microservices</tspan></text>
+  </g>
+</svg>

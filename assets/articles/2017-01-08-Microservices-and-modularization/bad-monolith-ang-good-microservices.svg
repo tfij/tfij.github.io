@@ -1,0 +1,641 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="1081.1127"
+   height="642.55975"
+   id="svg2"
+   version="1.1"
+   inkscape:version="0.48.4 r9939"
+   sodipodi:docname="bad-monolith-ang-good-microservices.svg">
+  <defs
+     id="defs4" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.43311044"
+     inkscape:cx="898.6879"
+     inkscape:cy="-4.4391987"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="10"
+     fit-margin-left="10"
+     fit-margin-right="10"
+     fit-margin-bottom="10"
+     inkscape:window-width="1301"
+     inkscape:window-height="744"
+     inkscape:window-x="65"
+     inkscape:window-y="24"
+     inkscape:window-maximized="1"
+     units="px" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(175.43478,-37.588428)">
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="-86.601807"
+       y="669.52515"
+       id="text4019"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4021"
+         x="-86.601807"
+         y="669.52515"
+         style="font-size:44px">Bad monolith</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:32px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="463.94937"
+       y="669.52515"
+       id="text4104"
+       sodipodi:linespacing="125%"
+       inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"><tspan
+         sodipodi:role="line"
+         id="tspan4106"
+         x="463.94937"
+         y="669.52515"
+         style="font-size:44px">Good microservices</tspan></text>
+    <g
+       id="g4387"
+       inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90"
+       transform="matrix(2,0,0,2,-361.01723,-334.33602)">
+      <path
+         inkscape:connector-curvature="0"
+         id="path4369"
+         d="m 511.13719,247.2706 21.2132,-13.13198"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4371"
+         d="M 515.1778,283.6361 502.04582,257.87721"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4373"
+         d="m 534.3707,294.74777 22.72843,-15.65736"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4375"
+         d="m 493.45952,293.73762 -20.70813,8.08122"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4377"
+         d="m 517.1981,301.81884 7.07107,19.1929"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4379"
+         d="m 548.51283,332.62849 20.70813,7.07107"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4381"
+         d="m 514.16765,340.20464 -18.18275,21.2132"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         sodipodi:nodetypes="cc"
+         inkscape:connector-curvature="0"
+         id="path4383"
+         d="m 501.54074,371.01429 23.73858,21.71828"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <path
+         inkscape:connector-curvature="0"
+         id="path4385"
+         d="m 487.3986,380.10566 -15.15228,33.84011"
+         style="fill:none;stroke:#000000;stroke-width:1px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
+      <rect
+         y="239.85178"
+         x="467.16214"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-47"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         y="222.67918"
+         x="530.80176"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-65"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         y="262.07513"
+         x="557.06573"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-69"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         y="283.28836"
+         x="491.40579"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-37"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         y="330.76553"
+         x="568.17737"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-45"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         y="361.0701"
+         x="459.08093"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-25"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         y="291.36957"
+         x="429.7865"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-474"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         y="382.28329"
+         x="524.74084"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-43"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         y="412.58786"
+         x="444.93875"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-07"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         y="321.67413"
+         x="504.53778"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-8"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+    <g
+       transform="matrix(2,0,0,2,-271.01095,-340.39692)"
+       id="g3124"
+       inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+       inkscape:export-xdpi="90"
+       inkscape:export-ydpi="90">
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+         y="194.67012"
+         x="53.46553"
+         height="275.91675"
+         width="224.39897"
+         id="rect2987"
+         style="fill:#c8ffff;fill-opacity:1;stroke:#000000;stroke-width:1.35489261;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+         y="203.50116"
+         x="99.672226"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+         y="235.32097"
+         x="184.01996"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-3"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+         y="214.10776"
+         x="133.51233"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-6"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+         y="262.59506"
+         x="148.66461"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-7"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+         y="252.49355"
+         x="124.42095"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-5"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+         y="244.41234"
+         x="196.14178"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-35"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+         y="358.55957"
+         x="208.26361"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-62"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+         y="320.17377"
+         x="75.933624"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-9"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+         y="303.00116"
+         x="147.65446"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-1"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+         y="269.66614"
+         x="101.18744"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-2"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+         y="274.71692"
+         x="184.01996"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-70"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+         y="327.24484"
+         x="138.56308"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-93"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+         y="279.7677"
+         x="156.74583"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-60"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+         y="306.03165"
+         x="189.07071"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-626"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+         y="282.79813"
+         x="120.38034"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-18"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+         y="318.15347"
+         x="181.99963"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-79"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+         y="338.35654"
+         x="109.26866"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-20"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+         y="403.00629"
+         x="186.04025"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-23"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+         y="373.71185"
+         x="193.11133"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-75"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+         y="380.78293"
+         x="92.096069"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-92"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+         y="354.51895"
+         x="88.05545"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-28"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+         y="368.6611"
+         x="126.44125"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-97"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+         y="386.84384"
+         x="154.72551"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-36"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+         y="416.13824"
+         x="111.28896"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-12"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+         y="348.45804"
+         x="179.97934"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-931"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+         y="309.06207"
+         x="112.29912"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-94"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+         y="277.74738"
+         x="78.964081"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-78"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+         y="266.63568"
+         x="211.29407"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-4"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+         y="231.28035"
+         x="213.31438"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-50"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+         y="208.04684"
+         x="163.81689"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-361"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+         y="245.42249"
+         x="95.126518"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-0"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+         y="359.56973"
+         x="151.69507"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-63"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+         y="428.2601"
+         x="143.61385"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-206"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+         y="225.21944"
+         x="149.67476"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-361-5"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+         y="233.30064"
+         x="119.37019"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-361-5-3"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+         y="414.11795"
+         x="167.85751"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-23-9"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+         y="331.28543"
+         x="162.80675"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-23-4"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+         y="344.41742"
+         x="141.59354"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-23-8"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+         y="391.89459"
+         x="112.29912"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-23-1"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+         y="290.87936"
+         x="173.91841"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-23-2"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+      <rect
+         inkscape:export-ydpi="90"
+         inkscape:export-xdpi="90"
+         inkscape:export-filename="/home/local/ALLEGROGROUP/tomasz.fijalkowski/projects/tfij/tfij.github.io/img/articles/2016-12-24-Microservices-and-modularization/bad-monolith-ang-good-microservices.png"
+         y="254.51385"
+         x="180.9895"
+         height="19.858683"
+         width="44.102345"
+         id="rect3757-23-93"
+         style="fill:#ffff96;fill-opacity:1;stroke:#000000;stroke-width:0.83421665;stroke-miterlimit:4;stroke-opacity:1;stroke-dasharray:none" />
+    </g>
+  </g>
+</svg>

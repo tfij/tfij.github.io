@@ -220,3 +220,7 @@ article h4 {
 ul.recent-posts {
     padding: 0;
 }
+
+article img {
+    max-width: 100%;
+}
