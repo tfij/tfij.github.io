@@ -3,6 +3,8 @@ layout: post
 title: Microservices and modularization
 tags: [tech, microservices, monolith, modularization, architecture, design]
 short: false
+seo:
+    type: TechArticle
 ---
 
 Many times I heard that the microservice-based architecture is a solution of modularization issue.
