@@ -1,4 +1,4 @@
-<ul class="posts posts-short">
+<div class="posts posts-short">
     {% for post in site.posts limit:include.decryptedPostLimit %}
     <div class="blog-post">
         <h2 class="blog-post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
@@ -17,4 +17,4 @@
         <p class="blog-post-meta"><time class="post-date">{{ post.date | date: "<strong>%b %-d</strong> %Y" }}</time></p>
     </div>
     {% endfor %}
-</ul>
+</div>
