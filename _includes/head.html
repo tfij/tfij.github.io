@@ -3,7 +3,8 @@
 <meta name="author" content="Tomasz Fijałkowski">
 
 <!-- seo -->
-{% seo %}
+{% if page.title %}{% seo %}
+{% else %}<title>{{ site.title }}</title>{% seo title=false %}{% endif %}
 
 <!-- Twitter Summary Card -->
 <meta name="twitter:card" content="summary">
