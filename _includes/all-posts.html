@@ -1,5 +1,6 @@
 <div class="posts posts-short">
     {% for post in site.posts limit:include.decryptedPostLimit %}
+    <section>
     <div class="blog-post">
         <h2 class="blog-post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
         <p class="blog-post-meta"><time class="post-date">{{ post.date | date: "<strong>%b %-d</strong> %Y" }}</time></p>
@@ -10,11 +11,14 @@
             <p class="buttons"><a href="{{ post.url | prepend: site.baseurl }}">read more</a></p>
         {% endif %}
     </div>
+    </section>
     {% endfor %}
     {% for post in site.posts offset:include.decryptedPostLimit %}
+    <section>
     <div class="blog-post">
         <h2 class="blog-post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
         <p class="blog-post-meta"><time class="post-date">{{ post.date | date: "<strong>%b %-d</strong> %Y" }}</time></p>
     </div>
+    </section>
     {% endfor %}
 </div>

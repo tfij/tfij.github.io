@@ -3,17 +3,19 @@ layout: default
 ---
 
 <article>
-    <h1>{{ page.title }}</h1>
-    <p class="blog-post-meta">
-        <time class="post-date">{{ page.date | date: "<strong>%b %-d</strong> %Y" }}</time>
-        by <span class="authors">Tomasz Fijałkowski</span>
-    </p>
+    <header>
+        <h1>{{ page.title }}</h1>
+        <p class="blog-post-meta">
+            <time class="post-date">{{ page.date | date: "<strong>%b %-d</strong> %Y" }}</time>
+            by <span class="authors">Tomasz Fijałkowski</span>
+        </p>
 
-    {% if page.publishedAt %}
-    <div class="bs-callout bs-callout-small bs-callout-info">
-        This article is also available at <a href="{{ page.publishedAt.url }}">{{ page.publishedAt.title }}</a>.
-    </div>
-    {% endif %}
+        {% if page.publishedAt %}
+        <div class="bs-callout bs-callout-small bs-callout-info">
+            This article is also available at <a href="{{ page.publishedAt.url }}">{{ page.publishedAt.title }}</a>.
+        </div>
+        {% endif %}
+    </header>
 
     {{ content }}
 </article>
