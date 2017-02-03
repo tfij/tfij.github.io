@@ -44,7 +44,7 @@ Teams also lose they technological independence.
 The solution for managing frontend in the microservices-base architecture should be selected carefully.
 Most popular ones have both advantages and disadvantages, cause a lot place for trade-offs.
 You can try either SPA per bounded context or build page from fragments (using e.g. ESI tags).
-In [allegro](allegro.pl) to solve a problem with frontend, we designed our own solution. The solution supports
+In [allegro](http://allegro.pl) to solve a problem with frontend, we designed our own solution. The solution supports
 
 - an integration of many services at any page,
 - teams independence - teams create their own frontend components,
