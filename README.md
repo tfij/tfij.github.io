@@ -1,4 +1,4 @@
 tfij.github.com
 ======
 
-The source code of http://tfij.github.io/
+The source code of [http://chi.pl](http://chi.pl)
