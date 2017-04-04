@@ -7,7 +7,7 @@ seo:
     type: TechArticle
 ---
 
-In a [Quick introduction to Java 9 modularization](2017/03/11/Quick-Introduction-to-Java9-Modularization.html) article I quickly introduce the basic concept of a Java 9 modularization.
+In a [Quick introduction to Java 9 modularization](/2017/03/11/Quick-Introduction-to-Java9-Modularization.html) article I quickly introduce the basic concept of a Java 9 modularization.
 Now is the time to improve modules design.
 In this article we will focus on reducing modules coupling.
 
