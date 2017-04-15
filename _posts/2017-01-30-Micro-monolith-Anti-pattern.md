@@ -9,19 +9,18 @@ seo:
 
 Microservice-base architecture gains in popularity every day.
 This approach has many advantages.
-The most important are independent deployments, shortened and simplified deploy pipeline, 
-limiting communication between teams and technology freedom.
-That core advantages support quick delivery of new features.
+The most important advantages include: independent deployments, shortened and simplified deploy pipeline, limited communication between teams, and technology freedom.
+These core advantages support quick delivery of new features.
 Microservices, of course, bring also a lot of challenges.
-Wrong approach to these can ruin the benefits of microservices.
-It's also transform an architecture in some kind of a rotten architecture which I call distributed monolith or **micro-monolith anti-pattern**.
-Symptoms of that anti-patter are following situations:
+Wrong approach can ruin all microservices benefits.
+It can also transform the architecture to some kind of rotten architecture which I call distributed monolith or **micro-monolith anti-pattern**.
+Following situations are the symptoms of anti-pattern occurrence:
 
 - An implementation of a new feature requires changing of many services developed by many teams.
 - It's impossible to deploy single service (it is required to synchronize deploy of many services).
 - A requirement of a specific framework for all services.
 
-This article discuses micro-monolith anti-pattern and dangers which come with that.
+This article discuss micro-monolith anti-pattern and dangers which come with that.
 
 # Micro-monolit on the frontend level
 
@@ -73,7 +72,7 @@ Abandoning a DRY (don't repeat yourself) principle for independence should be co
 The recommended solution is to code repetition or to spawn a new microservice instead of the lib.
 If libs contain utils or support infrastructure, there should be always an alternative to integrate without such libs.
 
-However, how itwas discussed [Microservices and modularization](/2017/01/08/Microservices-and-modularization.html),
+However, how it was discussed [Microservices and modularization](/2017/01/08/Microservices-and-modularization.html),
 high coupling is not characteristic of the monolith by its definition - it’s a reflection of ignorance.
 A microservise having a huge number of connections to other services, doesn't have to be micro-monolith.
 It is certainly bed design and can lead to micro-monolith.
@@ -85,9 +84,9 @@ In both solutions teams have to spend lot of time to communicate each other, ref
 # Micro-monolit on the database level
 
 It is common to refactor a Monolith into Microservices.
-Usually the domain is well known and services may have clearly designated bounded contexts.
+Usually the domain is well-known and services may have clearly designated bounded contexts.
 
-Unfortunately, in that case, the most difficult task is to refactoring and spiting the monolith database (especially RDBMS).
+Unfortunately, in that case, the most difficult task is to refactoring and splitting the monolith database (especially RDBMS).
 Eventually, misroservices should access data from their own database or from other services.
 The shared database hidden behind some kind of ACL (anti-corruption layer) is a short term solution.
 Any modification of database model requires teams synchronization and potentially changing of many services, what should be abandoned.
@@ -104,7 +103,7 @@ The challenge is to test the entire system.
 It doesn't help that there are a lot of code repositories, technology stacks, configurations etc.
 
 Shared tests across the entire system may be a bottleneck of a deploy pipeline what limits frequent deployments. 
-Instate of that, integration tests of microservices should be move to each microservice.
+Instate of that, integration tests of microservices should be moved to each microservice.
 Each service should be tested with all depended services.
 To achieve that, it is tempting to prepare reference environment with all production services.
 Microservices are tested by many teams using that single reference env.
@@ -113,13 +112,13 @@ That tests are plainly brittle and should be limited.
 
 Recommended tools are stubs and Consumer-Driven Contracts (CDC).
 [Test Pyramid](http://martinfowler.com/bliki/TestPyramid.html) principle should be extended and apply in microservice-base architecture.
-Each service should has its own pyramid as well as the entire system.
+Each service should have its own pyramid as well as the entire system.
 
 ![Test pyramids in microservice-base architecture](/assets/articles/2017-01-30-Micro-monolith-Anti-pattern/test-pyramids.svg "Test pyramids in microservice-base architecture")
 
 Tests of the entire system, base on a reference env, shouldn't focus on responsibility of any single microservice. 
 Instead, they should focus on testing business processes crossing many services.
-That test should be prepared by team collaboration and its running should not take more then few minutes.
+That test should be prepared by team collaboration and its running should not take more than few minutes.
 
 A reversal of the cone may cause monolith-like prolonged deploy pipeline, slows down deployments and limits their frequently.
 
