@@ -116,4 +116,4 @@ Building such environments to be effective also in terms of costs is quite a cha
 [Test Pyramid](http://martinfowler.com/bliki/TestPyramid.html) principle should be extended and apply in microservice-based architecture.
 Each service should have its own pyramid as well as the entire system.
 
-![Test pyramids in microservice-based architecture](/assets/articles/2017-01-30-Micro-monolith-Anti-pattern
+![Test pyramids in microservice-based architecture](/assets/articles/2017-01-30-Micro-monolith-Anti-pattern)
