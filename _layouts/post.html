@@ -12,7 +12,7 @@ layout: default
 
         {% if page.publishedAt %}
         <div class="bs-callout bs-callout-small bs-callout-info">
-            This article is also available at <a href="{{ page.publishedAt.url }}">{{ page.publishedAt.title }}</a>.
+            This article is also available at {{ page.publishedAt.site }} as <a href="{{ page.publishedAt.url }}">{{ page.publishedAt.title }}</a>
         </div>
         {% endif %}
     </header>

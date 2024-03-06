@@ -13,7 +13,7 @@ h3, .h3,
 h4, .h4,
 h5, .h5,
 h6, .h6 {
-    margin-top: 0;
+    margin-top: 1.5em;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
     font-weight: normal;
     color: #333;
@@ -30,6 +30,10 @@ article h3 {
 }
 article h4 {
     font-size: 14px;
+}
+
+pre {
+    margin: 20px 0;
 }
 
 

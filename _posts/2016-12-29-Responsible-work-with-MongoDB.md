@@ -4,8 +4,9 @@ title: Responsible work with MongoDB
 tags: [tech, MongoDB, NoSQL, RDBMS]
 short: false
 publishedAt:
-    title: allegro.tech
+    site: allegro.tech
     url: http://allegro.tech/2016/12/MongoDB-schema.html
+    title: Responsible work with MongoDB
 seo:
     type: TechArticle
 ---
