@@ -2,7 +2,7 @@
 layout: post
 title: Optional as a Field and what are you going to do to me about it?
 tags: [tech, java]
-short: true
+short: false
 publishedAt:
   site: detektywi.it
   url: https://detektywi.it/2018/08/optional-jako-pole-i-co-mi-zrobisz/
