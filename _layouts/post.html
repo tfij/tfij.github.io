@@ -10,6 +10,10 @@ layout: default
             by <span class="authors">Tomasz Fijałkowski</span>
         </p>
 
+        {% if page.coverImage %}
+            <img src="{{ page.coverImage.url }}" alt="{{ page.coverImage.alt }}" class="post-cover-image"/>
+        {% endif %}
+
         {% if page.publishedAt %}
         <div class="bs-callout bs-callout-small bs-callout-info">
             This article is also available at {{ page.publishedAt.site }} as <a href="{{ page.publishedAt.url }}">{{ page.publishedAt.title }}</a>
