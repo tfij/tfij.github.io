@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Don't misuse unchecked exceptions
-tags: [tech, java, error handling, CompletableFuture, Functional programming]
+tags: [tech, java, error-handling, Functional-programming]
 short: false
 seo:
     type: TechArticle

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Responsible work with MongoDB
-tags: [tech, MongoDB, NoSQL, RDBMS]
+tags: [tech, MongoDB, NoSQL, RDBMS, Database]
 short: false
 publishedAt:
     site: allegro.tech

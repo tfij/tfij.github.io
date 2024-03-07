@@ -36,6 +36,11 @@ pre {
     margin: 20px 0;
 }
 
+img.post-cover-image {
+    margin-bottom: 1em;
+    width: 100%;
+}
+
 
 /*
  * Override Bootstrap's default container.
