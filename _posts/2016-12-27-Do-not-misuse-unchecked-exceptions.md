@@ -21,7 +21,7 @@ Handling of specific exceptions is only added in the appropriate positions when 
 However, failures such as IO errors or invalid input received from users are not exceptional in many scenarios.
 In such cases, an error is often considered a successful result.
 
-# In Practice
+## In Practice
 
 Unfortunately, my team recently encountered a much more complex situation.
 The entire codebase relied heavily on [CompletableFuture](https://docs.oracle.com/javase/8/docs/api/java/util/concurrent/CompletableFuture.html), which can complete exceptionally.
@@ -53,7 +53,7 @@ Such code comments did not prevent the appearance of redundant error handling us
 Last but not least, the majority of Java 8 functional interfaces such as Supplier, Function, BiFunction, etc., do not allow checked exceptions to be thrown.
 Consequently, we couldn't use that approach with CompletableFuture.
 
-# Refactoring
+## Refactoring
 
 To improve our code quality, we refactored the code in two steps.
 The first step was simple: we introduced a rule that a method returning CompletableFuture doesn't throw any exceptions - exceptions are caught as early as possible and mapped to failure futures.
@@ -69,7 +69,7 @@ Sample code for this class is available on my GitHub - [Result](https://github.c
 
 In the new version of our service code, exceptions are only thrown when invariants are violated, indicating a bug in the code.
 
-# Conclusion
+## Conclusion
 
 By replacing the traditional practice of throwing unchecked exceptions with a return type that explicitly informs whether an error has occurred,
 we were able to improve the readability of the code and reduce the number of errors.

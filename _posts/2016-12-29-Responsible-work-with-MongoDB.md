@@ -28,7 +28,7 @@ In this article I give some guidance on how to work with MongoDB database, I pre
 trade-off points and give some hints how to design collections and documents. This article focuses on typical
 MongoDB usage — main database for single application with read mostly pattern.
 
-# Consistency and the appropriate level of denormalization
+## Consistency and the appropriate level of denormalization
 
 The first question which should be answered is to embed documents or not to embed them? General rule says that if you
 operate on dependent documents they should be stored in a separated collection. Let’s take classic blog app as an example.
@@ -100,14 +100,14 @@ If  you can live with some percent of false positives or false negatives errors 
 give up eventual consistency and idempotent operations. A good example is counting of page views when
 high accuracy is not required.
 
-# Migration and refactoring
+## Migration and refactoring
 
 It’s commonly said that MongoDB, like most NoSQL databases, is schemaless. In practice, when you work
 with MongoDB you actually work with *implicit schema* — each document has its own schema which you can control in your app.
 No matter how good was the schema when you design it, the necessity to change will come eventually.
 Two important issues related to application maintenance are presented below.
 
-## Data migration
+### Data migration
 
 Some applications operate on huge data set and need 24*7 uptime. To migrate data
 in such application you can’t stop it for the migration time — the whole process may takes hours.
@@ -125,7 +125,7 @@ otherwise you may fall in conditions hell and make your ODM layer very complex.
 
 This is the way to change stored documents schema, but what about indexes?
 
-## Creating new indexes
+### Creating new indexes
 
 New business requirements bring a need to add new database queries. To make them efficient, new indexes are required.
 Creating an index on a collection of size about 50 GB may takes hours and has negative impact on a production system.
@@ -137,7 +137,7 @@ The solution is to use replication as follow:
 
 That process lets your application work clearly and smoothly even if whole migration takes hours.
 
-# Data Access Layer
+## Data Access Layer
 
 To work effectively with MongoDB it’s important to have clear separated data access layer. All access
 should be grouped in packages, modules or other code grouping units. This approach allows anyone to quickly analyze how
@@ -156,7 +156,7 @@ changing a whole document),
 That set of requirements convinces me to build my own ODM layer without Spring Data like framework when working with MongoDB.
 This allows me to use all advantages of MongoDB at the price of giving up take-and-use solutions.
 
-# Saving disc space with short keys
+## Saving disc space with short keys
 
 In MongoDB keys selection is important for the size of the database. Keys are in fact stored together with the
 associated documents, each document keeps its schema. If you are OK with *pa* key instead of *platform_account* you can
@@ -170,7 +170,7 @@ Once I heard the story about the programmer who reduced the size of production c
 keys. By sacrificing readability of documents, you can achieve data size reduction and performance improvement.
 Every time you have to find the right balance.
 
-# Durability
+## Durability
 
 ACID transaction accustomed us to durability of write operations. If I saved the data, does it mean that it’s indeed saved.
 It's true for RDBMS with ACID transactions but not for MongoDB in default configuration. It is especially important if
@@ -197,16 +197,16 @@ this flag only for critical operations if at all (replication with `w` option is
 
 This is another trade-off where you have to chose between latency and durability.
 
-# Summary
+## Summary
 
-## A difficult compromise
+### A difficult compromise
 
 There are more trade-offs then it was presented in this article. For example allow or not to read from slave nodes. Usually
 there is more than one good solution, which can lead to conflicts between team members who appreciate different values.
 For some people performance is more important than flexibility, for some it is the opposite. Everyone has the right, and
 at the same time is wrong.
 
-## If it hurts, stop doing it!
+### If it hurts, stop doing it!
 
 If you can't solve problems with clear model, probably you use wrong tool. Don't try to use tricky algorithm, instead of,
 think about other solutions like:
