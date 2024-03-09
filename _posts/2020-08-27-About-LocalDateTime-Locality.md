@@ -3,9 +3,7 @@ layout: post
 title: About LocalDateTime Locality
 tags: [tech, java, design]
 short: false
-customExcerpt: We all know how crucial good naming conventions for variables, functions, classes, and everything we work with are.
-  One of the popular techniques of refactoring is renaming.
-  Programmers spend a considerable amount of time brainstorming names...
+customExcerpt: It ain't what you don't know that gets you into trouble. It's what you know for sure that just ain't so. -- Will Rogers
 coverImage:
   url: /assets/articles/2020-08-27-About-LocalDateTime-Locality/solar-clock.jpg
   alt: The illustration shows a sundial showing three o'clock
@@ -21,7 +19,7 @@ seo:
 > 
 > -- <cite>Will Rogers</cite>
 
-# The Basics Senior Developers Might Not Know
+## The Basics Senior Developers Might Not Know
 
 We all know how crucial good naming conventions for variables, functions, classes, and everything we work with are.
 One of the popular techniques of refactoring is renaming.
@@ -35,7 +33,7 @@ What is this class?
 The name suggests that it holds a local date.
 That's the kind of response I hear in job interviews (if someone remembers what the [java.time](https://docs.oracle.com/javase/8/docs/api/java/time/package-summary.html) API is).
 
-# Local Only in Name
+## Local Only in Name
 
 Let's conduct a little experiment then.
 I have my computer set to the Polish time zone, which means the following assertion is correct.
@@ -98,7 +96,7 @@ should be replaced with
 ZonedDateTime now = ZonedDateTime.now(ZoneId.of("UTC"));
 ```
 
-# How to Proceed?
+## How to Proceed?
 
 We now know that `LocalDateTime` is a misleading, weak name.
 So, how to proceed?
@@ -117,6 +115,6 @@ typealias ZonelessDateTime = LocalDateTime
 
 I almost forgot, if you can think of a better name, be sure to write to me.
 
-# Message for Today
+## Message for Today
 
 Finally, my favorite solution: don't use `LocalDateTime` if possible.
