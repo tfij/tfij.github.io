@@ -3,6 +3,9 @@ layout: post
 title: About LocalDateTime Locality
 tags: [tech, java, design]
 short: false
+excerpt: We all know how crucial good naming conventions for variables, functions, classes, and everything we work with are.
+  One of the popular techniques of refactoring is renaming.
+  Programmers spend a considerable amount of time brainstorming names...
 coverImage:
   url: /assets/articles/2020-08-27-About-LocalDateTime-Locality/solar-clock.jpg
   alt: The illustration shows how different people, represented by small circles, can cooperate with others to create a communication network around which satellites orbit
