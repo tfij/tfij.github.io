@@ -12,7 +12,11 @@
         {% if post.short == true %}
             <p>{{ post.content | markdownify }}</p>
         {% else %}
-            <p>{{ post.excerpt | markdownify | strip_html | truncatewords: 60 }}</p>
+            {% if post.customExcerpt %}
+                <p>{{ post.customExcerpt | markdownify | strip_html }}</p>
+            {% else %}
+                <p>{{ post.excerpt | markdownify | strip_html | truncatewords: 60 }}</p>
+            {% endif %}
             <p class="buttons"><a href="{{ post.url | prepend: site.baseurl }}">read more</a></p>
         {% endif %}
     </div>
