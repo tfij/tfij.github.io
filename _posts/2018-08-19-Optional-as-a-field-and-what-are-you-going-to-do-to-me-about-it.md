@@ -27,7 +27,7 @@ If we see that there's no `Optional` in the method signature, we can assume that
 otherwise, we need to handle the absence of a value.
 Beautiful! This makes our code more obvious.
 
-## Optional as a Class Field
+# Optional as a Class Field
 
 So why not use `Optional` as a class field? There are several arguments against it.
 Firstly, IntelliJ IDEA suggests that you shouldn't do it, and it's a common interpretation.
@@ -59,7 +59,7 @@ Regardless, if my field is of type `Optional`, I don't need to place any annotat
 Referring to the field immediately lets me know whether I need to handle nulls.
 It's the same well-performing rule when referring to public methods.
 
-## Optional as a Method Argument
+# Optional as a Method Argument
 
 Alright, what about the second topic, which is the prohibition on using `Optional`s in method parameters?
 Let's assume we have the following Client class:
@@ -130,7 +130,7 @@ new User(client.getFirstName(),
 
 I have no doubt that this looks the best.
 
-## Message for today
+# Message for today
 
 Finally, the question arises: should I use `Optional`s everywhere?
 Use them wherever it makes sense.

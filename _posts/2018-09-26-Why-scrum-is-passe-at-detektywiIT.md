@@ -28,7 +28,7 @@ He notes that "the value was lost behind the implementation".
 Has anything changed since then?
 Is there any improvement?
 
-## Scrum According to Google
+# Scrum According to Google
 
 If you ask an average programmer what Scrum is, they will likely talk about sprints, retrospectives, and other meetings.
 Some certified Scrum developers will tell you how long the meetings should last and will present the roles of team members.
@@ -55,7 +55,7 @@ Why isn't there any picture in the style below?
 
 ![Scrum pillars and values](/assets/articles/2018-09-25-Why-scrum-is-passe/scrum-pillars.png)
 
-## Unorthodox Scrum
+# Unorthodox Scrum
 
 Usually, when I ask someone what methodology they work in, if the answer is Scrum, it's "light Scrum", "unorthodox Scrum",
 or another term suggesting a deviation from the original process, e.g., "Yes, we have Scrum but...".
@@ -80,7 +80,7 @@ Short-sighted laziness won.
 Another example I observed was not hiring Scrum Masters due to the need to pay them a salary.
 In this case, short-sighted savings won.
 
-## Message for Today
+# Message for Today
 
 If you decide to work in Scrum, remember what principles and pillars are the heart of the process, and importantly, don't fight against them, but accept them.
 I'm not saying that modifying Scrum is wrong.

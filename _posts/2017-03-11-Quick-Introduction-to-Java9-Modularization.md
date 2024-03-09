@@ -66,7 +66,7 @@ It's important that not exported packages are not accessible.
 Since Java 9, some APIs are marked as internal and are unavailable from regular packages.
 If you compile code using such packages in Java 8 and try to use it with Java 9, you'll get a runtime error.
 
-# Today's message
+# Message for Today
 It’s time to get your hands dirty by writing your first Java 9 module.
 I've prepared the simplest example to help you start.
 It's available on my GitHub: [Java 9 modules - the simplest example](https://github.com/tfij/Java-9-modules---the-simplest-example).
