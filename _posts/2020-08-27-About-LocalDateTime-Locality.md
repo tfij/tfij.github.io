@@ -8,7 +8,7 @@ customExcerpt: We all know how crucial good naming conventions for variables, fu
   Programmers spend a considerable amount of time brainstorming names...
 coverImage:
   url: /assets/articles/2020-08-27-About-LocalDateTime-Locality/solar-clock.jpg
-  alt: The illustration shows how different people, represented by small circles, can cooperate with others to create a communication network around which satellites orbit
+  alt: The illustration shows a sundial showing three o'clock
 publishedAt:
   site: detektywi.it
   url: https://detektywi.it/2020/08/o-lokalnosci-localdatetime/
