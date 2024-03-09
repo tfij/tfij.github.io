@@ -1,0 +1,14 @@
+{% assign tags = site.tags | sort %}
+{% for tag in tags %}
+    {% if tag[0] != 'tech' %}
+        {% assign posts_count = tag[1] | size %}
+        {% if posts_count > 0 %}
+            <span class="site-tag">
+                <a href="{{ site.baseurl }}/tags/{{ tag | first }}/"
+                   style="font-size: {{ tag | last | size | times: 8 | plus: 80  }}%">
+                        {{ tag[0] | replace:'-', ' ' }}&nbsp;({{ tag | last | size }})
+                </a>
+            </span>
+        {% endif %}
+    {% endif %}
+{% endfor %}
