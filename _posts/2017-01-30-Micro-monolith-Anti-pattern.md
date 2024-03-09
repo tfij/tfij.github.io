@@ -22,7 +22,7 @@ The following situations are symptoms of the anti-pattern occurrence:
 
 This article discusses the micro-monolith anti-pattern and the dangers that come with it.
 
-## Micro-monolith on the frontend level
+# Micro-monolith on the frontend level
 
 Designing the frontend in a microservice-based system is one of the main challenges.
 According to agile methodology, a team should be cross-functional and be able to deliver an entire feature themselves.
@@ -52,7 +52,7 @@ The solution supports:
 
 More about this approach can be found at [Allegro.tech](http://allegro.tech/2016/03/Managing-Frontend-in-the-microservices-architecture.html).
 
-## Micro-monolith on the services level
+# Micro-monolith on the services level
 
 The macro architecture of a system should limit the impact on each microservice.
 Similarly, the architecture of each microservice should not affect the macro architecture.
@@ -81,7 +81,7 @@ The first solution is laborious.
 The second one means that a micro-monolith is created—frequent and fast deployment is gone.
 In both solutions, teams have to spend a lot of time communicating with each other, refactoring is more complex, and so on.
 
-## Micro-monolith on the database level
+# Micro-monolith on the database level
 
 It is common to refactor a Monolith into Microservices.
 Usually, the domain is well-known and services may have clearly designated bounded contexts.
@@ -96,7 +96,7 @@ The similar difficulty appears while refactoring microservices (fortunately on a
 e.g., functionality is moved from one microservice to another or when a new microservice is spawned.
 In most cases, it is easier to split the logic than the data.
 
-## Tests VS micro-monolith
+# Tests VS micro-monolith
 
 Even if microservices are split and separated well, an improper approach to the deploy pipeline may push you into the micro-monolith anti-pattern.
 The challenge is to test the entire system.

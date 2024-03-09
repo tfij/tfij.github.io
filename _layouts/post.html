@@ -9,15 +9,15 @@ layout: default
             <time class="post-date">{{ page.date | date: "<strong>%b %-d</strong> %Y" }}</time>
             by <span class="authors">Tomasz Fijałkowski</span>
         </p>
-
-        {% if page.coverImage %}
-            <img src="{{ page.coverImage.url }}" alt="{{ page.coverImage.alt }}" class="post-cover-image"/>
-        {% endif %}
-
         {% if page.publishedAt %}
         <div class="bs-callout bs-callout-small bs-callout-info">
-            This article is also available at {{ page.publishedAt.site }} as <a href="{{ page.publishedAt.url }}">{{ page.publishedAt.title }}</a>
+            This article is also available on {{ page.publishedAt.site }} as <a href="{{ page.publishedAt.url }}">{{ page.publishedAt.title }}</a>
         </div>
+
+        {% if page.coverImage %}
+        <img src="{{ page.coverImage.url }}" alt="{{ page.coverImage.alt }}" class="post-cover-image"/>
+        {% endif %}
+
         {% endif %}
     </header>
 
