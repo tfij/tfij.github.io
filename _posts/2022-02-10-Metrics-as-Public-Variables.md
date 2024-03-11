@@ -29,7 +29,7 @@ In this post, I'd like to analyze a specific case of their usage, namely metrics
 
 ## Metrics, Metrics Everywhere
 
-In the [Mierz logi na zamiary](https://detektywi.it/2019/07/mierz-logi-na-zamiary/) post by Bartek Gałek, he described how important metrics are.
+In the [Mierz logi na zamiary](https://detektywi.it/2019/07/mierz-logi-na-zamiary/) (bite off more than you can measure) post by Bartek Gałek, he described how important metrics are.
 Collecting metrics is also very straightforward.
 In the Spring framework, all you need to do is inject `MeterRegistry`...
 

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Additional Checks in Checkstyle
-tags: [tech, java, design, quality, clean-code]
+tags: [tech, java, design, quality, clean-code, development-process]
 short: false
 coverImage:
   url: /assets/articles/2022-10-13-Additional-Checks-in-Checkstyle/formatting.webp
