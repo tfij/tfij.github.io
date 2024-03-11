@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Why scrum is passé?
-tags: [tech, scrum, agile, team-organization]
+tags: [tech, scrum, agile, team-organization, development-process]
 short: false
 coverImage:
   url: /assets/articles/2018-09-25-Why-scrum-is-passe/implementation-over-values.png
