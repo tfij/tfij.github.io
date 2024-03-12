@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Metrics as Public Variables, Is it Bad?
-tags: [tech, java, design, metrics, spring-framework]
+tags: [tech, java, design, observability, spring-framework]
 short: false
 customExcerpt: On this blog, I sometimes touch upon taboo subjects like in post *Optional as a Field and what are you going to do to me about it?*
   This time, it's about static public variables.
