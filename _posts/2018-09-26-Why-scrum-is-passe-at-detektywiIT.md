@@ -51,7 +51,7 @@ If we turn to the Scrum Guide, we find the following statement:
 In my opinion, this quote is the most important excerpt from the official guide.
 It clearly indicates what is most important.
 Unfortunately, none of the graphics show anything about trust, the three pillars, and only one image depicts the values.
-Why isn't there any picture in the style below?
+**Why isn't there any picture in the style below?**
 
 ![Scrum pillars and values](/assets/articles/2018-09-25-Why-scrum-is-passe/scrum-pillars.png)
 
@@ -86,4 +86,4 @@ If you decide to work in Scrum, remember what principles and pillars are the hea
 I'm not saying that modifying Scrum is wrong.
 On the contrary, Scrum encourages experimentation.
 However, it must be done in a systematic way to determine its impact on the process, team, and product.
-Ensure that values are not lost behind the implementation.
+**Ensure that values are not lost behind the implementation**.
