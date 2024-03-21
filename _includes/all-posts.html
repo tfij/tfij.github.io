@@ -1,5 +1,6 @@
 <div class="posts posts-short">
-    {% for post in site.posts limit:include.decryptedPostLimit %}
+
+    {% for post in paginator.posts %}
     <section>
     <div class="blog-post">
         <h2 class="blog-post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
@@ -22,12 +23,18 @@
     </div>
     </section>
     {% endfor %}
-    {% for post in site.posts offset:include.decryptedPostLimit %}
-    <section>
-    <div class="blog-post">
-        <h2 class="blog-post-title"><a href="{{ post.url | prepend: site.baseurl }}">{{ post.title }}</a></h2>
-        <p class="blog-post-meta"><time class="post-date">{{ post.date | date: "<strong>%b %-d</strong> %Y" }}</time></p>
-    </div>
-    </section>
-    {% endfor %}
+
+
+    <ul class="pager">
+        {% if paginator.previous_page %}
+            <li class="previous">
+                <a href="{{ paginator.previous_page_path }}">&larr; Previous</a>
+            </li>
+        {% endif %}
+        {% if paginator.next_page %}
+            <li class="next">
+                <a href="{{ paginator.next_page_path }}">Next &rarr;</a>
+            </li>
+        {% endif %}
+    </ul>
 </div>
