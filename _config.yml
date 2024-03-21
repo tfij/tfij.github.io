@@ -10,6 +10,7 @@ gems:
   - jekyll-feed
   - jekyll-sitemap
   - jekyll-seo-tag
+  - jekyll-paginate
 defaults:
   -
     scope:
@@ -17,3 +18,5 @@ defaults:
       type: "posts"
     values:
       image: /assets/img/chi.svg
+paginate: 10
+paginate_path: "/blog/page/:num/"
