@@ -8,7 +8,7 @@ coverImage:
   alt: The illustration shows the exponential growth of communication paths as nodes increase
 ---
 
-My talk from Confitura '18, titled "Micro-Monolith Anti-Pattern," is now available on YouTube!
+My talk from Confitura '18, titled "Micro-Monolith Anti-Pattern", is now available on YouTube!
 
 Watch it here: [https://www.youtube.com/watch?v=2CVJuPtlNVU](https://www.youtube.com/watch?v=2CVJuPtlNVU)
 
