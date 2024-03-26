@@ -22,7 +22,7 @@ seo:
 > 
 > -- <cite>Martin Fowler</cite>
 
-On this blog, I sometimes touch upon taboo subjects like in post [Optional as a Field and what are you going to do to me about it?](http://chi.pl/2018/08/19/Optional-as-a-field-and-what-are-you-going-to-do-to-me-about-it.html).
+On this blog, I sometimes touch upon taboo subjects like in post [Optional as a Field and what are you going to do to me about it?](/2018/08/19/Optional-as-a-field-and-what-are-you-going-to-do-to-me-about-it.html).
 This time, it's about static public variables.
 Much has already been said about the harm their usage has inflicted on the world.
 In this post, I'd like to analyze a specific case of their usage, namely metrics.

@@ -5,7 +5,7 @@ tags: [tech, MongoDB, NoSQL, RDBMS, Database]
 short: false
 publishedAt:
     site: allegro.tech
-    url: http://allegro.tech/2016/12/MongoDB-schema.html
+    url: https://allegro.tech/2016/12/MongoDB-schema.html
     title: Responsible work with MongoDB
 seo:
     type: TechArticle
@@ -84,7 +84,7 @@ store in documents like:
 ```
 
 The state of each account can be verified and reproduced based on this collection. This approach is similar to
-[Event Sourcing](http://martinfowler.com/eaaDev/EventSourcing.html) architectural pattern.
+[Event Sourcing](https://martinfowler.com/eaaDev/EventSourcing.html) architectural pattern.
 
 There is one more thing you should be aware of when repeating a failed operation.
 Even if the command was successful, the app might not receive an acknowledge because of a network failure.
@@ -112,7 +112,7 @@ Two important issues related to application maintenance are presented below.
 Some applications operate on huge data set and need 24*7 uptime. To migrate data
 in such application you can’t stop it for the migration time — the whole process may takes hours.
 I recommend the following migration process which is based on
-[polymorphic data](http://stackoverflow.com/questions/39867278/what-is-polymorphic-data-nosql-databases)
+[polymorphic data](https://stackoverflow.com/questions/39867278/what-is-polymorphic-data-nosql-databases)
 nature of document-oriented database:
 
 1. Modify the code of Object—Document Mapper (ODM) to be compatible with both version of the document.
@@ -212,7 +212,7 @@ If you can't solve problems with clear model, probably you use wrong tool. Don't
 think about other solutions like:
 
 - Other database
-- [Polyglot persistence](http://martinfowler.com/bliki/PolyglotPersistence.html)
+- [Polyglot persistence](https://martinfowler.com/bliki/PolyglotPersistence.html)
 - [Lambda architecture](http://lambda-architecture.net)
 
 And remember, failure is a result. Don't try to be resistant to all kind of failures, prepare for them

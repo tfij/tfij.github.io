@@ -16,4 +16,4 @@ Note: The presentation is in Polish.
 
 Enjoy the insights and feel free to share your feedback in the comments!
 
-For further insights and concepts discussed in the talk, check out my [Micro-monolith anti-pattern](http://localhost:4000/2017/01/30/Micro-monolith-Anti-pattern.html) article.
+For further insights and concepts discussed in the talk, check out my [Micro-monolith anti-pattern](/2017/01/30/Micro-monolith-Anti-pattern.html) article.
