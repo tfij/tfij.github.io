@@ -42,7 +42,7 @@ Moreover, there is a trade-off between the teams' technological independence and
 The solution for managing the frontend in the microservices-based architecture should be selected carefully.
 Most popular ones have both advantages and disadvantages, causing a lot of place for trade-offs.
 You can try either SPA per bounded context or build a page from fragments (using, e.g., ESI tags).
-At [Allegro](http://allegro.pl), to solve a problem with the frontend, we designed our own solution.
+At [Allegro](https://allegro.pl), to solve a problem with the frontend, we designed our own solution.
 The solution supports:
 
 - An integration of many services on any page,
@@ -50,7 +50,7 @@ The solution supports:
 - Technology freedom — each component can be developed in different technology (there are limitations due to web-perf but the architecture allows for mixing technologies),
 - Non-technical users, using components and services, can prepare a new page in a few minutes (e.g. marketing department creates several advertising campaign pages per day).
 
-More about this approach can be found at [Allegro.tech](http://allegro.tech/2016/03/Managing-Frontend-in-the-microservices-architecture.html).
+More about this approach can be found at [Allegro.tech](https://allegro.tech/2016/03/Managing-Frontend-in-the-microservices-architecture.html).
 
 ## Micro-monolith on the services level
 
@@ -58,7 +58,7 @@ The macro architecture of a system should limit the impact on each microservice.
 Similarly, the architecture of each microservice should not affect the macro architecture.
 This leads to the general conclusion that microservices should be as independent as possible.
 It is in conflict with standardization — more independence means less standardization.
-For example, if the whole system is based on [Akka](http://akka.io) framework and the only way to integrate a new service
+For example, if the whole system is based on [Akka](https://akka.io) framework and the only way to integrate a new service
 with others is to use Akka, it smells like a micro-monolith.
 In this case, teams lose their technological freedom.
 Also, there is no way to migrate the system step by step to other technology.
@@ -113,7 +113,7 @@ Those tests are plainly brittle and should be limited.
 Recommended tools are stubs (e.g. wiremock), well-defined contracts and Consumer-Driven Contracts (CDC).
 You can consider to use envirement per team where each team can define own environment.
 Building such environments to be effective also in terms of costs is quite a challenge.
-[Test Pyramid](http://martinfowler.com/bliki/TestPyramid.html) principle should be extended and apply in microservice-based architecture.
+[Test Pyramid](https://martinfowler.com/bliki/TestPyramid.html) principle should be extended and apply in microservice-based architecture.
 Each service should have its own pyramid as well as the entire system.
 
 ![Test pyramids in microservice-based architecture](/assets/articles/2017-01-30-Micro-monolith-Anti-pattern/test-pyramids.svg)

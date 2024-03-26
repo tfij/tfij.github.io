@@ -15,9 +15,9 @@ This biased point of view is visualized by diagrams like
 ![Bad monolith and good microservices](/assets/articles/2017-01-08-Microservices-and-modularization/bad-monolith-ang-good-microservices.svg "Bad monolith and good microservices")
 
 However, domain-driven design (DDD) appeared when the monoliths were a base solution in software design.
-There are no obstacles to build monolith using [bounded contexts](http://martinfowler.com/bliki/BoundedContext.html).
+There are no obstacles to build monolith using [bounded contexts](https://martinfowler.com/bliki/BoundedContext.html).
 Each bounded context has in general a separated subdomain.
-They can also use separated databases - [Polyglot persistence](http://martinfowler.com/bliki/PolyglotPersistence.html) 
+They can also use separated databases - [Polyglot persistence](https://martinfowler.com/bliki/PolyglotPersistence.html) 
 approach can be applied to the monolith too.
 Finally, context map specifies communication patterns.
 Many technologies can be used to modularize the monolith:
