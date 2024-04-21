@@ -8,7 +8,7 @@ customExcerpt: In the world of software, modularization is crucial for maintaini
   These discussions often feature extreme opinions, ranging from "it's better to have a few large modules" to "the smaller the modules, the better".
   The truth, as always, lies somewhere in between, and in this post, I will point out how to pinpoint it.
 coverImage:
-  url: /assets/articles/2024-04-22-The-Mandelbrot-nature-of-modularization/fractal-tree.png
+  url: /assets/articles/2024-04-21-The-Mandelbrot-nature-of-modularization/fractal-tree.png
   alt: The illustration of a fractal tree
 seo:
   type: TechArticle
@@ -33,7 +33,7 @@ This diversity in definitions complicates discussions about modularization.
 For the purposes of this article, I will adopt a broad definition of a module as a logical unit of code within a program or library, having both an interface and an implementation.
 The simple concept is illustrated in the image below.
 
-![The illustration depicts a module consisting of both an interface and an implementation](/assets/articles/2024-04-22-The-Mandelbrot-nature-of-modularization/module-interface-and-implementation.png)
+![The illustration depicts a module consisting of both an interface and an implementation](/assets/articles/2024-04-21-The-Mandelbrot-nature-of-modularization/module-interface-and-implementation.png)
 
 Thus, a module could be, for example, a microservice, a package, a class, or a method.
 Even a private method is a module living within a class-module.
@@ -51,7 +51,7 @@ This division refers to how modules are designed and how they present their inte
 Deep modules feature a small, concise interface that hides a complex implementation behind the scenes.
 On the other hand, shallow modules have a broad interface behind which lies a very simple implementation.
 
-![The illustration depicts two modules, deep and shallow. In the deep module, a fisherman catches fish](/assets/articles/2024-04-22-The-Mandelbrot-nature-of-modularization/modules-deep-and-shallow.png)
+![The illustration depicts two modules, deep and shallow. In the deep module, a fisherman catches fish](/assets/articles/2024-04-21-The-Mandelbrot-nature-of-modularization/modules-deep-and-shallow.png)
 
 Deep modules are often preferred.
 Users can access advanced features through a simple interface without needing to understand all the internal details.
@@ -76,7 +76,7 @@ However, the total interface is larger `IA < IA + IB`.
 **This means that method extraction almost always leads to an increase in the total complexity of the project**.
 An exception may be when method extraction serves to reduce code duplication, resulting in a decrease in the total implementation.
 
-![The illustration visualizes the total increase in interface complexity on method extraction](/assets/articles/2024-04-22-The-Mandelbrot-nature-of-modularization/modules-extract-method.png)
+![The illustration visualizes the total increase in interface complexity on method extraction](/assets/articles/2024-04-21-The-Mandelbrot-nature-of-modularization/modules-extract-method.png)
 
 The increase in total complexity associated with breaking down code into smaller fragments
 leads to **the absurd conclusion that the deepest and simplest design can be achieved when all the code is placed in a single class or method**.
@@ -128,7 +128,7 @@ In the case of "Payment Processing", we may have multiple components handling di
 Depending on the architecture and complexity, each of these components may be a separate microservice, a JAR file, or simply a package.
 We can continue to delve deeper, reaching methods calling other methods, and so on.
 
-![The illustration depicts how packages, classes, methods, etc., are arranged in a fractal tree](/assets/articles/2024-04-22-The-Mandelbrot-nature-of-modularization/fractal-in-software.png)
+![The illustration depicts how packages, classes, methods, etc., are arranged in a fractal tree](/assets/articles/2024-04-21-The-Mandelbrot-nature-of-modularization/fractal-in-software.png)
 
 In this approach, we cannot speak of an absolute size for the ideal module.
 Instead, modularization is multi-level; at each level, we should maintain a balance of depth and complexity limited by the cognitive capabilities of the human brain.
