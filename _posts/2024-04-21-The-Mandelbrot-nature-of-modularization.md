@@ -84,7 +84,7 @@ Undoubtedly, another practice is needed to balance this direction.
 
 ## The Magical Number Seven
 
-In 1956, George A. Miller, in his article titled "The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing Information",
+In 1956, George A. Miller, in his article titled ["The Magical Number Seven, Plus or Minus Two: Some Limits on Our Capacity for Processing Information"](https://en.wikipedia.org/wiki/The_Magical_Number_Seven,_Plus_or_Minus_Two),
 described how the human mind can consciously process about seven pieces of information at a time.
 
 In the context of deep modules, the magical number seven becomes a key criterion for balancing their complexity, both in depth and width.
