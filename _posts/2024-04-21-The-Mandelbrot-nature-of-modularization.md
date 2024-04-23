@@ -3,13 +3,12 @@ layout: post
 title: The Mandelbrot nature of modularization
 tags: [tech, design, architecture]
 short: false
-customExcerpt: In the world of software, modularization is crucial for maintaining flexibility, scalability, and code readability.
+description: In the world of software, modularization is crucial for maintaining flexibility, scalability, and code readability.
   I have participated in many discussions about the ideal size of a module.
   These discussions often feature extreme opinions, ranging from "it's better to have a few large modules" to "the smaller the modules, the better".
   The truth, as always, lies somewhere in between, and in this post, I will point out how to pinpoint it.
-coverImage:
-  url: /assets/articles/2024-04-21-The-Mandelbrot-nature-of-modularization/fractal-tree.png
-  alt: The illustration of a fractal tree
+image: /assets/articles/2024-04-21-The-Mandelbrot-nature-of-modularization/fractal-tree.png
+image-alt: The illustration of a fractal tree
 seo:
   type: TechArticle
 ---

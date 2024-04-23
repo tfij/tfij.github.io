@@ -3,13 +3,12 @@ layout: post
 title: Modularization and Architecture Testing
 tags: [tech, testing, java, design, architecture]
 short: false
-customExcerpt: Modularization in projects is one of the key techniques that allows for maintaining code readability, scalability, and ease of maintenance.
+description: Modularization in projects is one of the key techniques that allows for maintaining code readability, scalability, and ease of maintenance.
   As projects evolve, especially those with a larger scope, it becomes an important element ensuring order and transparency in the code structure.
   However, as the project progresses and new changes are introduced, and developers come and go, it's easy to forget the initial architecture assumptions.
   Automated tests come to the rescue.
-coverImage:
-  url: /assets/articles/2024-03-07-Modularization-and-Architecture-Testing/module-size.png
-  alt: The illustration shows a technical drawing of solids symbolizing modules with marked dimensions
+image: /assets/articles/2024-03-07-Modularization-and-Architecture-Testing/module-size.png
+image-alt: The illustration shows a technical drawing of solids symbolizing modules with marked dimensions
 publishedAt:
   site: detektywi.it
   url: https://detektywi.it/2024/03/modularyzacja-i-testy-architektury/

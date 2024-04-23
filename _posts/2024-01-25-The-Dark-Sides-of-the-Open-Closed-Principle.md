@@ -3,12 +3,11 @@ layout: post
 title: The Dark Sides of the Open-Closed Principle
 tags: [tech, design, clean-code]
 short: false
-customExcerpt: The Open-Closed Principle, described in SOLID, ensures project flexibility, but does it always lead to optimal, future-ready code?
+description: The Open-Closed Principle, described in SOLID, ensures project flexibility, but does it always lead to optimal, future-ready code?
   It sounds promising - open for extension, closed for modification.
   Let's take a closer look.
-coverImage:
-  url: /assets/articles/2024-01-25-The-Dark-Sides-of-the-Open-Closed-Principle/overengineering.jpg
-  alt: The illustration shows a tangled arrow as a metaphor for overengineering
+image: /assets/articles/2024-01-25-The-Dark-Sides-of-the-Open-Closed-Principle/overengineering.jpg
+image-alt: The illustration shows a tangled arrow as a metaphor for overengineering
 publishedAt:
   site: detektywi.it
   url: https://detektywi.it/2024/01/mroczne-strony-open-closed-principle/

@@ -3,9 +3,8 @@ layout: post
 title: Additional Checks in Checkstyle
 tags: [tech, java, design, quality, clean-code, development-process, testing]
 short: false
-coverImage:
-  url: /assets/articles/2022-10-13-Additional-Checks-in-Checkstyle/formatting.webp
-  alt: A  Formatting string emerging from a code block
+image: /assets/articles/2022-10-13-Additional-Checks-in-Checkstyle/formatting.webp
+image-alt: A  Formatting string emerging from a code block
 publishedAt:
   site: detektywi.it
   url: https://detektywi.it/2022/10/dodatkowe-checki-w-checkstyle/

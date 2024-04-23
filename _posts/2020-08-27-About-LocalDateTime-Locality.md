@@ -3,10 +3,9 @@ layout: post
 title: About LocalDateTime Locality
 tags: [tech, java, design]
 short: false
-customExcerpt: It ain't what you don't know that gets you into trouble. It's what you know for sure that just ain't so. -- Will Rogers
-coverImage:
-  url: /assets/articles/2020-08-27-About-LocalDateTime-Locality/solar-clock.jpg
-  alt: The illustration shows a sundial showing three o'clock
+description: It ain't what you don't know that gets you into trouble. It's what you know for sure that just ain't so. -- Will Rogers
+image: /assets/articles/2020-08-27-About-LocalDateTime-Locality/solar-clock.jpg
+image-alt: The illustration shows a sundial showing three o'clock
 publishedAt:
   site: detektywi.it
   url: https://detektywi.it/2020/08/o-lokalnosci-localdatetime/

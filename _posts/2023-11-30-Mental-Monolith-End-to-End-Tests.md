@@ -3,11 +3,10 @@ layout: post
 title: "Mental Monolith: End-to-End Tests"
 tags: [tech, testing, architecture, microservices, monolith, development-process, communication, team-organization]
 short: false
-customExcerpt: In recent years, service architectures, especially microservices, have gained enormous popularity, yet the approach to end-to-end (E2E) testing often remains unchanged.
+description: In recent years, service architectures, especially microservices, have gained enormous popularity, yet the approach to end-to-end (E2E) testing often remains unchanged.
   We hear that tests verifying the operation of the entire system are crucial in the software development process, especially with distributed architectures.
-coverImage:
-  url: /assets/articles/2023-11-30-Mental-Monolith-End-to-End-Tests/Mental-Monolith.png
-  alt: The illustration shows a head with a large monolith inside it instead of a brain
+image: /assets/articles/2023-11-30-Mental-Monolith-End-to-End-Tests/Mental-Monolith.png
+image-alt: The illustration shows a head with a large monolith inside it instead of a brain
 publishedAt:
   site: detektywi.it
   url: https://detektywi.it/2023/11/monolit-mentalny-testy-e2e/
