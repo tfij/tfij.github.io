@@ -10,12 +10,17 @@
 <!-- Twitter Summary Card -->
 <meta name="twitter:card" content="summary">
 <meta name="twitter:site" content="@tomaszfijalkows">
-<meta name="twitter:image" content="{{ site.url }}/assets/img/chi.svg">
+{% if page.image %}<meta name="twitter:image" content="{{ site.url }}{{ page.image }}">
+{% else %}<meta name="twitter:image" content="{{ site.url }}/assets/img/chi.svg">
+{% endif %}
+
 {% if page.title %}<meta name="twitter:title" content="{{ page.title }}">
 {% else %}<meta name="twitter:title" content="{{ site.title }}">
-{% endif %}{% if page.description %}<meta name="twitter:description" content="{{ page.description | strip_html | xml_escape }}">
-{% else %}{% if page.layout == "post"%}<meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | strip_newlines | truncate: 200 }}">
-{% else %}<meta name="twitter:description" content="{{ site.description | strip_html | xml_escape }}">{% endif %}{% endif %}
+{% endif %}
+
+{% if page.description %}<meta name="twitter:description" content="{{ page.description | strip_html | xml_escape }}">
+{% else %}<meta name="twitter:description" content="{{ page.content | strip_html | xml_escape | strip_newlines | truncate: 200 }}">
+{% endif %}
 
 <!-- atom -->
 {% feed_meta %}

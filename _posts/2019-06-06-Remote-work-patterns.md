@@ -3,9 +3,8 @@ layout: post
 title: Remote Work Patterns
 tags: [tech, communication, team-organization]
 short: false
-coverImage:
-  url: /assets/articles/2019-06-06-Remote-work-patterns/communication.png
-  alt: The illustration shows how different people, represented by small circles, can cooperate with others to create a communication network around which satellites orbit
+image: /assets/articles/2019-06-06-Remote-work-patterns/communication.png
+image-alt: The illustration shows how different people, represented by small circles, can cooperate with others to create a communication network around which satellites orbit
 publishedAt:
   site: detektywi.it
   url: https://detektywi.it/2019/06/wzorce-pracy-zdalnej/

@@ -3,9 +3,8 @@ layout: post
 title: Why scrum is passé?
 tags: [tech, scrum, agile, team-organization, development-process]
 short: false
-coverImage:
-  url: /assets/articles/2018-09-25-Why-scrum-is-passe/implementation-over-values.png
-  alt: An illustration of a puzzle in which one element with the word implementation is lifted and reveals the word value
+image: /assets/articles/2018-09-25-Why-scrum-is-passe/implementation-over-values.png
+image-alt: An illustration of a puzzle in which one element with the word implementation is lifted and reveals the word value
 publishedAt:
   site: detektywi.it
   url: https://detektywi.it/2018/09/dlaczego-scrum-jest-passe/

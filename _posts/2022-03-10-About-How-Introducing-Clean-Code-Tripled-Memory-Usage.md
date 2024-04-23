@@ -3,11 +3,10 @@ layout: post
 title: About How Introducing Clean Code Tripled Memory Usage
 tags: [tech, java, design, performance, quality, clean-code]
 short: false
-customExcerpt: This post is a brief story of how good intentions can lead to disaster when forgetting about JVM's internal mechanisms and how,
+description: This post is a brief story of how good intentions can lead to disaster when forgetting about JVM's internal mechanisms and how,
   once again, Kent Beck's approach - "Make it work, Make it right, Make it fast" - came into play.
-coverImage:
-  url: /assets/articles/2022-03-10-About-How-Introducing-Clean-Code-Tripled-Memory-Usage/clean-code-vs-performance.png
-  alt: A  Formatting string emerging from a code block
+image: /assets/articles/2022-03-10-About-How-Introducing-Clean-Code-Tripled-Memory-Usage/clean-code-vs-performance.png
+image-alt: A  Formatting string emerging from a code block
 publishedAt:
   site: detektywi.it
   url: https://detektywi.it/2022/03/o-tym-jak-wprowadzajac-clean-code-trzykrotnie-zwiekszylem-zuzycie-pamieci/

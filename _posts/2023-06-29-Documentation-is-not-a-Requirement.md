@@ -3,10 +3,9 @@ layout: post
 title: Documentation is not a Requirement
 tags: [tech, architecture, documentation, quality, development-process]
 short: false
-customExcerpt: In this post, I'd like to present my three-point approach to tasks and problems related to documentation.
-coverImage:
-  url: /assets/articles/2023-06-29-Documentation-is-not-a-Requirement/documentation.png
-  alt: The illustration shows a man trying to support piles of documents that are about to fall
+description: In this post, I'd like to present my three-point approach to tasks and problems related to documentation.
+image: /assets/articles/2023-06-29-Documentation-is-not-a-Requirement/documentation.png
+image-alt: The illustration shows a man trying to support piles of documents that are about to fall
 publishedAt:
   site: detektywi.it
   url: https://detektywi.it/2023/06/dokumentacja-nie-jest-wymaganiem/

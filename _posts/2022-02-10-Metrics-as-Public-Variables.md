@@ -3,13 +3,12 @@ layout: post
 title: Metrics as Public Variables, Is it Bad?
 tags: [tech, java, design, observability, spring-framework]
 short: false
-customExcerpt: On this blog, I sometimes touch upon taboo subjects like in post *Optional as a Field and what are you going to do to me about it?*
+description: On this blog, I sometimes touch upon taboo subjects like in post *Optional as a Field and what are you going to do to me about it?*
   This time, it's about static public variables.
   Much has already been said about the harm their usage has inflicted on the world.
   In this post, I'd like to analyze a specific case of their usage, namely metrics...
-coverImage:
-  url: /assets/articles/2022-02-10-Metrics-as-Public-Variables/metrics.png
-  alt: The illustration shows a terrified person surrounded by charts, metrics and terms such as metrics, public variables, getter and setter
+image: /assets/articles/2022-02-10-Metrics-as-Public-Variables/metrics.png
+image-alt: The illustration shows a terrified person surrounded by charts, metrics and terms such as metrics, public variables, getter and setter
 publishedAt:
   site: detektywi.it
   url: https://detektywi.it/2022/02/metryki-jako-zmienne-publiczne-czy-to-zle/
