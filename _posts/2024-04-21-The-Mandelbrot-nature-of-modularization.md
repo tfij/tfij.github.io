@@ -9,6 +9,10 @@ description: In the world of software, modularization is crucial for maintaining
   The truth, as always, lies somewhere in between, and in this post, I will point out how to pinpoint it.
 image: /assets/articles/2024-04-21-The-Mandelbrot-nature-of-modularization/fractal-tree.png
 image-alt: The illustration of a fractal tree
+publishedAt:
+  site: detektywi.it
+  url: https://detektywi.it/2024/04/mandelbrotowska-natura-modularyzacji/
+  title: Mandelbrotowska natura modularyzacji [Polish]
 seo:
   type: TechArticle
 ---
