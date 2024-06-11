@@ -177,6 +177,43 @@ img.post-cover-image {
     color: #999;
 }
 
+/*
+ * code formating
+ */
+code {
+    white-space: inherit !important;
+}
+code span {
+    white-space: inherit !important;
+}
+div.language-java code span.s {
+    color: #080;
+}
+div.language-java code span.nd {
+    color: #066;
+}
+div.language-java code span.kt {
+    color: #008;
+}
+div.language-java code span.kd {
+    color: #008;
+}
+div.language-java code span.nc {
+    color: #606;
+}
+div.language-java code span.k {
+    color: #008;
+}
+div.language-java code span.c1 {
+    color: #800;
+}
+div.language-xml code span.nt {
+    color: #008;
+}
+div.language-xml code span.s {
+    color: #080;
+}
+
 
 /*
  * Footer

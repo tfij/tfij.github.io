@@ -43,13 +43,13 @@ assert ZoneId.systemDefault().equals(ZoneId.of("Europe/Warsaw"));
 
 If `LocalDateTime` stores the date in the local time zone, to get the current date in another time zone, I should be able to execute the code:
 
-```
+```java
 ZonedDateTime now = LocalDateTime.now().atZone(ZoneId.of("UTC")));
 ```
 
 and the following assertion should pass:
 
-```
+```java
 assert now.equals(ZonedDateTime.now(Clock.system(ZoneId.of("UTC"))));
 ```
 
@@ -58,7 +58,7 @@ This is because **`LocalDateTime` has little to do with locality**
 Moreover, the same issue applies to `LocalDate`.
 If you see the expression
 
-```
+```java
 ZonedDateTime now = LocalDateTime.now().atZone(ZoneId.of("UTC")));
 ```
 
@@ -85,13 +85,13 @@ As Will Rogers said, *It ain't what you don't know that gets you into trouble. I
 Dear reader, I still owe you a correct code example.
 Understanding how `LocalDateTime` works, the expression
 
-```
+```java
 ZonedDateTime now = LocalDateTime.now().atZone(ZoneId.of("UTC"));
 ```
 
 should be replaced with
 
-```
+```java
 ZonedDateTime now = ZonedDateTime.now(ZoneId.of("UTC"));
 ```
 
@@ -108,7 +108,7 @@ So maybe just `DateTime`?
 
 If you can come up with a better name (or one of my suggestions fits you), and you're using Kotlin, you can use type aliases:
 
-```
+```kotlin
 typealias ZonelessDateTime = LocalDateTime
 ```
 

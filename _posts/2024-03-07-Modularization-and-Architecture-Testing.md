@@ -68,7 +68,7 @@ Just define the dependency
 
 From now on, we can write tests like
 
-```
+```java
 ProjectSummary projectSummary = ModuleSizeCalculator.project("src/main/java")
     .withModule("com.example.module1")
     .withModule("com.example.module2")
